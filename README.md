@@ -1,4 +1,15 @@
+<h1 align="center">Salutation, Je suis Alexandre</h1>
 <h3 align="center">Je suis étudiant en Technique de l'informatique.</h3>
+
+- 🔭 Je travail actuellement sur [Projet - Portfolio](https://github.com/AetherFall/Portfolio-2022)
+
+- 🌱 Je suis présentement en train d'apprendre: **Ruby**
+
+- 👨‍💻 Mon portfolio: [(En cours de conception)]((En cours de conception))
+
+- 📝 J'écris quelques cours de formation sur ce site: [(En cours de conception)]((En cours de conception))
+
+- 📫 Comment me contacter: **aetherfall@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
