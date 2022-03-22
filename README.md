@@ -5,9 +5,9 @@
 
 - 🌱 Je suis présentement en train d'apprendre: **Ruby**
 
-- 👨‍💻 Mon portfolio: [(En cours de conception)]((En cours de conception))
+- 👨‍💻 Mon portfolio: (En cours de conception)
 
-- 📝 J'écris quelques cours de formation sur ce site: [(En cours de conception)]((En cours de conception))
+- 📝 J'écris quelques cours de formation sur ce site: (En cours de conception)
 
 - 📫 Comment me contacter: **aetherfall@pm.me**
 
