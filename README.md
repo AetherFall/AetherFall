@@ -61,6 +61,6 @@
 </a>
 
 
-<a href="https://github.com/AetherFall/Benjamin-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AetherFall&repo=Benjamin-Bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/AetherFall/TP3-PROGIII">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AetherFall&repo=TP3-PROGIII&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
