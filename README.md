@@ -53,13 +53,12 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aetherfall&show_icons=true&locale=fr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="aetherfall" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherfall&show_icons=true&locale=fr&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="aetherfall" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aetherfall&show_icons=true&locale=fr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="aetherfall" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherfall&show_icons=true&locale=fr&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="aetherfall" />
 
 <a href="https://github.com/AetherFall/Gestionnaire-Emprunt-Materiel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AetherFall&repo=Gestionnaire-Emprunt-Materiel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 
 <a href="https://github.com/AetherFall/TP3-PROGIII">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AetherFall&repo=TP3-PROGIII&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
