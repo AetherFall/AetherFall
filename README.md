@@ -55,8 +55,6 @@
 ![](https://img.shields.io/badge/Software-Arduino-arduino?style=for-the-badge&logo=Arduino&logoColor=white&color=00aab3)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=b30042)
 
-[![Sparkline](https://stars.medv.io/AetherFall/badges.svg)](https://stars.medv.io/AetherFall/badges)
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aetherfall&hide=makefile,cmake&show_icons=true&locale=fr&title_color=b30042&text_color=ffffff&icon_color=b30042&bg_color=1d1f21&langs_count=3" alt="aetherfall" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherfall&show_icons=true&locale=fr&line_height=27&count_private=true&title_color=b30042&text_color=c9cacc&icon_color=b30042&bg_color=1d1f21" alt="aetherfall" />
 
