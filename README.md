@@ -1,22 +1,20 @@
 <h1 align="center">Salutation, Je suis William</h1>
 <h3 align="center">Je suis étudiant en Technique de l'informatique.</h3>
 
-🔭 Je travail actuellement sur [Projet - Portfolio](https://github.com/AetherFall/Portfolio-2022)
+🔭 I'm currently working on personnal project
 
-🌱 Je suis présentement en train d'apprendre: **Ruby**
+🌱 I'm currently learning **Ruby**
 
-👨‍💻 Mon portfolio: (En cours de conception)
+👨‍💻 My portfolio: (Under development)
 
-📝 J'écris quelques cours de formation sur ce site: (En cours de conception)
-
-📫 Comment me contacter: **aetherfall@pm.me**
+📫 Contact me: **aetherfall@pm.me**
 
 ### Connect with me:
 <p align="left">
 <a href="https://discord.gg/AetherFall#8300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AetherFall#8300" height="30" width="40" /></a>
 </p>
 
-### Langages:
+### Languages:
 <p align="left"> 
      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -30,7 +28,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-### Outils:
+### Tools:
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
@@ -44,7 +42,7 @@
 ![](https://img.shields.io/badge/Server-Google%20Cloud-google%20cloud?style=flat&logo=google%20cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Server-Microsoft%20Azure-azure?style=flat&logo=microsoft%20azure&logoColor=white&color=2bbc8a)
 
-### Logiciels:
+### Software:
 ![](https://img.shields.io/badge/Adobe-XD-adobexd?style=for-the-badge&logo=adobe%20xd&logoColor=white&color=ba03fc)
 ![](https://img.shields.io/badge/Adobe-Photoshop-adobephotoshop?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color=038cfc)
 ![](https://img.shields.io/badge/Adobe-Premiere%20Pro-adobepremierepro?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white&color=8003fc)
@@ -54,8 +52,8 @@
 ![](https://img.shields.io/badge/Software-Arduino-arduino?style=for-the-badge&logo=Arduino&logoColor=white&color=00aab3)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=b30042)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aetherfall&hide=makefile,cmake&show_icons=true&locale=fr&title_color=b30042&text_color=ffffff&icon_color=b30042&bg_color=1d1f21&langs_count=3" alt="aetherfall" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherfall&show_icons=true&locale=fr&line_height=27&count_private=true&title_color=b30042&text_color=c9cacc&icon_color=b30042&bg_color=1d1f21" alt="aetherfall" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aetherfall&hide=makefile,cmake&show_icons=true&locale=en&title_color=b30042&text_color=ffffff&icon_color=b30042&bg_color=1d1f21&langs_count=3" alt="aetherfall" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherfall&show_icons=true&locale=en&line_height=27&count_private=true&title_color=b30042&text_color=c9cacc&icon_color=b30042&bg_color=1d1f21" alt="aetherfall" />
 
 
 <a href="https://github.com/AetherFall/Gestionnaire-Emprunt-Materiel">
