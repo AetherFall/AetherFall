@@ -1,22 +1,22 @@
 <h1 align="center">Salutation, Je suis William</h1>
 <h3 align="center">Je suis étudiant en Technique de l'informatique.</h3>
 
-- 🔭 Je travail actuellement sur [Projet - Portfolio](https://github.com/AetherFall/Portfolio-2022)
+🔭 Je travail actuellement sur [Projet - Portfolio](https://github.com/AetherFall/Portfolio-2022)
 
-- 🌱 Je suis présentement en train d'apprendre: **Ruby**
+🌱 Je suis présentement en train d'apprendre: **Ruby**
 
-- 👨‍💻 Mon portfolio: (En cours de conception)
+👨‍💻 Mon portfolio: (En cours de conception)
 
-- 📝 J'écris quelques cours de formation sur ce site: (En cours de conception)
+📝 J'écris quelques cours de formation sur ce site: (En cours de conception)
 
-- 📫 Comment me contacter: **aetherfall@pm.me**
+📫 Comment me contacter: **aetherfall@pm.me**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://discord.gg/AetherFall#8300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AetherFall#8300" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Langages:</h3>
+### Langages:
 <p align="left"> 
      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -28,39 +28,43 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-</p>
-<h3 align="left">Outils:</h3>
-<p align="left">
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-<h3 align="left">Logiciels:</h3>
-<p align="left">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aetherfall&hide=makefile,cmake&show_icons=true&locale=fr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="aetherfall" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherfall&show_icons=true&locale=fr&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="aetherfall" />
+### Outils:
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Qt-Qt?style=flat&logo=qt&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Bootstrap-Bootstrap?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-mysql?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MariaDB-mariadb?style=flat&logo=mariadb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Selenium-selenium?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-git?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Sass-sass?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Server-Google%20Cloud-google%20cloud?style=flat&logo=google%20cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Server-Microsoft%20Azure-azure?style=flat&logo=microsoft%20azure&logoColor=white&color=2bbc8a)
+
+### Logiciels:
+![](https://img.shields.io/badge/Adobe-XD-adobexd?style=for-the-badge&logo=adobe%20xd&logoColor=white&color=ba03fc)
+![](https://img.shields.io/badge/Adobe-Photoshop-adobephotoshop?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color=038cfc)
+![](https://img.shields.io/badge/Adobe-Premiere%20Pro-adobepremierepro?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white&color=8003fc)
+![](https://img.shields.io/badge/Adobe-Audition-adobe?style=for-the-badge&logo=adobe%20audition&logoColor=white&color=02ada8)
+![](https://img.shields.io/badge/Adobe-After%20Effects-adobe?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white&color=ba03fc)
+![](https://img.shields.io/badge/Software-Blender-blender?style=for-the-badge&logo=Blender&logoColor=white&color=e88b00)
+![](https://img.shields.io/badge/Software-Arduino-arduino?style=for-the-badge&logo=Arduino&logoColor=white&color=00aab3)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=b30042)
+
+[![Sparkline](https://stars.medv.io/AetherFall/badges.svg)](https://stars.medv.io/AetherFall/badges)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aetherfall&hide=makefile,cmake&show_icons=true&locale=fr&title_color=b30042&text_color=ffffff&icon_color=b30042&bg_color=1d1f21&langs_count=3" alt="aetherfall" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherfall&show_icons=true&locale=fr&line_height=27&count_private=true&title_color=b30042&text_color=c9cacc&icon_color=b30042&bg_color=1d1f21" alt="aetherfall" />
+
 
 <a href="https://github.com/AetherFall/Gestionnaire-Emprunt-Materiel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AetherFall&repo=Gestionnaire-Emprunt-Materiel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AetherFall&repo=Gestionnaire-Emprunt-Materiel&title_color=b30042&text_color=c9cacc&icon_color=b30042&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/AetherFall/TP3-PROGIII">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AetherFall&repo=TP3-PROGIII&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AetherFall&repo=TP3-PROGIII&title_color=b30042&text_color=ffffff&icon_color=b30042&bg_color=1d1f21" />
 </a>
