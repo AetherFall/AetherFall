@@ -53,7 +53,7 @@
 ![](https://img.shields.io/badge/Adobe-After%20Effects-adobe?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white&color=ba03fc)
 ![](https://img.shields.io/badge/Software-Blender-blender?style=for-the-badge&logo=Blender&logoColor=white&color=e88b00)
 ![](https://img.shields.io/badge/Software-Arduino-arduino?style=for-the-badge&logo=Arduino&logoColor=white&color=00aab3)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=b30042)
+![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=b30042)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aetherfall&hide=makefile,cmake&show_icons=true&locale=fr&title_color=b30042&text_color=ffffff&icon_color=b30042&bg_color=1d1f21&langs_count=3" alt="aetherfall" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherfall&show_icons=true&locale=fr&line_height=27&count_private=true&title_color=b30042&text_color=c9cacc&icon_color=b30042&bg_color=1d1f21" alt="aetherfall" />
