@@ -1,5 +1,5 @@
-<h1 align="center">Salutation, Je suis William</h1>
-<h3 align="center">Je suis étudiant en Technique de l'informatique.</h3>
+<h1 align="center">Hello, I'm William</h1>
+<h3 align="center">Student in computer science</h3>
 
 🔭 I'm currently working on personnal projects and schools projects
 
