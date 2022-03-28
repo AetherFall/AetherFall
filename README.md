@@ -3,7 +3,7 @@
 
 🔭 I'm currently working on personnal projects and schools projects
 
-🌱 I'm currently learning **PHP - C# - PlantUML - Markdown - Mermaid**
+🌱 I'm currently learning **[ PHP - C# - PlantUML - Markdown - Mermaid ]**
 
 👨‍💻 My portfolio: (Under development)
 
