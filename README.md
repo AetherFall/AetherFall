@@ -1,9 +1,9 @@
 <h1 align="center">Salutation, Je suis William</h1>
 <h3 align="center">Je suis étudiant en Technique de l'informatique.</h3>
 
-🔭 I'm currently working on personnal project
+🔭 I'm currently working on personnal projects and schools projects
 
-🌱 I'm currently learning **Ruby**
+🌱 I'm currently learning **PHP, C#, PlantUML, Markdown, Mermaid**
 
 👨‍💻 My portfolio: (Under development)
 
