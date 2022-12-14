@@ -50,12 +50,14 @@
 ![](https://img.shields.io/badge/Server-Microsoft%20Azure-azure?style=flat&logo=microsoft%20azure&logoColor=white&color=2bbc8a)
 
 ### Software:
+## Design:
 ![](https://img.shields.io/badge/Adobe-XD-adobexd?style=for-the-badge&logo=adobe%20xd&logoColor=white&color=ba03fc)
 ![](https://img.shields.io/badge/Adobe-Photoshop-adobephotoshop?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color=038cfc)
 ![](https://img.shields.io/badge/Adobe-Premiere%20Pro-adobepremierepro?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white&color=8003fc)
 ![](https://img.shields.io/badge/Adobe-Audition-adobe?style=for-the-badge&logo=adobe%20audition&logoColor=white&color=02ada8)
 ![](https://img.shields.io/badge/Adobe-After%20Effects-adobe?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white&color=ba03fc)
 ![](https://img.shields.io/badge/Software-Blender-blender?style=for-the-badge&logo=Blender&logoColor=white&color=e88b00)
+## Others :
 ![](https://img.shields.io/badge/Software-Arduino-arduino?style=for-the-badge&logo=Arduino&logoColor=white&color=00aab3)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=b30042)
 
