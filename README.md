@@ -1,13 +1,20 @@
 <h1 align="center">Hello! I'm William</h1>
 <h3 align="center">Student in computer science</h3>
 
+<div align="center">
+     
+![](https://komarev.com/ghpvc/?username=aetherfall&color=red&style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/1b486928-f315-42e1-9e95-bd89f911d722.svg?style=for-the-badge)](https://wakatime.com/@1b486928-f315-42e1-9e95-bd89f911d722)
+
+</div>
+     
 🔭 I'm currently working on personnal projects and schools projects
 
-🌱 I'm currently learning **[ PHP - C# - PlantUML - Markdown - Mermaid ]**
+🌱 I'm currently learning **[ Python - Kotlin - Mermaid ]**
 
 👨‍💻 My portfolio: (Under development)
 
-📫 Contact me: **aetherfall@pm.me**
+📫 Contact me: **william@aetherfall.net**
 
 ### Connect with me:
 <p align="left">
@@ -52,16 +59,8 @@
 ![](https://img.shields.io/badge/Software-Arduino-arduino?style=for-the-badge&logo=Arduino&logoColor=white&color=00aab3)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=b30042)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aetherfall&hide=makefile,cmake&show_icons=true&locale=en&title_color=b30042&text_color=ffffff&icon_color=b30042&bg_color=1d1f21&langs_count=3" alt="aetherfall" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherfall&show_icons=true&locale=en&line_height=27&count_private=true&title_color=b30042&text_color=c9cacc&icon_color=b30042&bg_color=1d1f21" alt="aetherfall" />
+### Language usage statistics for the current year
+<img src="https://wakatime.com/share/@Aetherfall/3be4b97e-72ae-48d7-a2f2-475a03563545.svg" width="700" height="500" align="center"/>
 
-
-<a href="https://github.com/AetherFall/Gestionnaire-Emprunt-Materiel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AetherFall&repo=Gestionnaire-Emprunt-Materiel&title_color=b30042&text_color=c9cacc&icon_color=b30042&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AetherFall/TP3-PROGIII">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AetherFall&repo=TP3-PROGIII&title_color=b30042&text_color=ffffff&icon_color=b30042&bg_color=1d1f21" />
-</a>
-     
-![](https://komarev.com/ghpvc/?username=aetherfall&color=red&style=for-the-badge&label=Nombre de vues)
+### Github usage statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetherfall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
