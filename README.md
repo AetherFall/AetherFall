@@ -2,23 +2,30 @@
 <h3 align="center">Student in computer science</h3>
 
 <div align="center">
+  <br/>
 
 ![](https://komarev.com/ghpvc/?username=aetherfall&color=red&style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/1b486928-f315-42e1-9e95-bd89f911d722.svg?style=for-the-badge)](https://wakatime.com/@1b486928-f315-42e1-9e95-bd89f911d722)
+  
+  
+### 🌱 I'm currently learning  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  
+  
+### 👨‍💻 My portfolio:  
+[![Portfolio](https://img.shields.io/badge/Portfolio%20[under%20development]-%23CC342D.svg?style=for-the-badge&color=7F2157)]()
+   
 
-</div>
-
-🔭 I'm currently working on personnal projects and schools projects
-
-🌱 I'm currently learning **[ Ruby - Django - Mermaid ]**
-👨‍💻 My portfolio: (Under development)
-
-📫 Contact me: **william@aetherfall.net**
 ### Connect with me:
-
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AetherFall#8300)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](aetherfall@protonmail.com)
-
+[![Email](https://img.shields.io/badge/email-8B89CC?style=for-the-badge&logo=mail.ru&logoColor=white&color=darkorchid)](mailto:william@aetherfall.net)
+  
+  <br/>
+  <br/>
+  
 
 ## Languages:
 
@@ -38,11 +45,9 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu%20bash&logoColor=white)
-
 ![French](https://img.shields.io/badge/french-%23009639.svg?style=for-the-badge&logo=duolingo&logoColor=white&color=crimson)
 ![English](https://img.shields.io/badge/english-%23009639.svg?style=for-the-badge&logo=duolingo&logoColor=white&color=darkblue)
 ![Italian](https://img.shields.io/badge/italian-%23009639.svg?style=for-the-badge&logo=duolingo&logoColor=white)
-
 ## Tools:
 
 ### Servers:
@@ -118,3 +123,4 @@
 
 ### Github usage statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetherfall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+</div>
