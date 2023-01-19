@@ -124,5 +124,5 @@
 <img src="https://wakatime.com/share/@Aetherfall/3be4b97e-72ae-48d7-a2f2-475a03563545.svg" width="700" height="500" align="center"/>
 
 ### Github usage statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetherfall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aetherfall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 </div>
