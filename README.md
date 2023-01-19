@@ -15,7 +15,7 @@
   
   
 ### 👨‍💻 My portfolio:  
-[![Portfolio](https://img.shields.io/badge/Portfolio%20[under%20development]-%23CC342D.svg?style=for-the-badge&color=7F2157)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23CC342D.svg?style=for-the-badge&color=7F2157)](https://aetherfall.net)
    
 
 ### Connect with me:
