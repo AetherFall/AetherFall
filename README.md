@@ -8,23 +8,20 @@
 ![](https://komarev.com/ghpvc/?username=aetherfall&color=red&style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/1b486928-f315-42e1-9e95-bd89f911d722.svg?style=for-the-badge)](https://wakatime.com/@1b486928-f315-42e1-9e95-bd89f911d722)
 
-  <br/>
+<br/>
   
-### 🌱 I'm currently learning  
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![MAUI](https://img.shields.io/badge/MAUI-%234ED1C5?style=for-the-badge&logo=.net&logoColor=white)  
-  
-  
-### 👨‍💻 My portfolio:  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23CC342D.svg?style=for-the-badge&color=7F2157)](https://williamlambert.me)
    
+<br/>  
+
+### 🌱 I'm currently learning  
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+
 
 ### Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AetherFall#8300)
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](aetherfall@protonmail.com)
-[![Email](https://img.shields.io/badge/email-8B89CC?style=for-the-badge&logo=mail.ru&logoColor=white&color=darkorchid)](mailto:william@aetherfall.net)
+[![Email](https://img.shields.io/badge/email-8B89CC?style=for-the-badge&logo=mail.ru&logoColor=white&color=darkorchid)](mailto:william-b.lambert@pm.me)
   
-  <br/>
   <br/>
   
  </div
@@ -80,7 +77,9 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-%234ED1C5?style=for-the-badge&logo=.net&logoColor=white)  
   
 ### Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
