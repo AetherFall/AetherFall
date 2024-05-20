@@ -15,7 +15,6 @@
 <br/>   
 
 ### Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AetherFall#8300)
 [![Email](https://img.shields.io/badge/email-8B89CC?style=for-the-badge&logo=mail.ru&logoColor=white&color=darkorchid)](mailto:william-b.lambert@pm.me)
   
   <br/>
