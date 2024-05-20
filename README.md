@@ -7,14 +7,9 @@
   
 ![](https://komarev.com/ghpvc/?username=aetherfall&color=red&style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/1b486928-f315-42e1-9e95-bd89f911d722.svg?style=for-the-badge)](https://wakatime.com/@1b486928-f315-42e1-9e95-bd89f911d722)
-
-<br/>
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23CC342D.svg?style=for-the-badge&color=7F2157)](https://williamlambert.me)
-   
-<br/>   
-
 ### Connect with me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23CC342D.svg?style=for-the-badge&color=7F2157)](https://williamlambert.me)
 [![Email](https://img.shields.io/badge/email-8B89CC?style=for-the-badge&logo=mail.ru&logoColor=white&color=darkorchid)](mailto:william-b.lambert@pm.me)
   
   <br/>
