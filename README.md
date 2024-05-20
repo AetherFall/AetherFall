@@ -1,6 +1,7 @@
 <div align="center" width="100%">
   
-![github-header-image](https://user-images.githubusercontent.com/70216119/226682600-83878881-3097-4732-af20-2da86a5a55ea.png)
+![github-header-image(7)](https://github.com/AetherFall/AetherFall/assets/70216119/b0612ab0-83ea-49b9-adeb-0c4a8bbcc5a3)
+
 
 </div>
 <div align="center">
